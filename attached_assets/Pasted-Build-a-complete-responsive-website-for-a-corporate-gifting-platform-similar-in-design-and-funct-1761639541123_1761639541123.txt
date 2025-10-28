@@ -1,0 +1,49 @@
+Build a complete responsive website for a **corporate gifting platform** similar in design and functionality to the site shared in this reference: https://share.google/h8fz7ilKsAI51lU7R
+
+### Project Overview
+The goal is to create a clean, modern, and mobile-friendly web experience for corporate clients to browse, select, and inquire about gifting products.
+
+### Requirements
+1. **Tech Stack**
+   - Frontend: React + Tailwind CSS
+   - Backend: Node.js (Express)
+   - Database: JSON or SQLite (for initial data, not production)
+   - Hosting: Replit deployment-ready
+
+2. **Pages & Sections**
+   - **Home Page**: Hero banner, featured categories, highlights of gifting solutions, CTA for inquiries.
+   - **Products Page**: Grid of gift items with filters by category, price range, and occasion.
+   - **Product Detail Page**: Image gallery, description, pricing, and “Enquire Now” button.
+   - **Corporate Solutions Page**: Overview of bulk gifting options, customization, and packaging.
+   - **About Page**: Company story, mission, values.
+   - **Contact Page**: Contact form for corporate inquiries (name, company, email, phone, message).
+   - **Admin Dashboard (basic)**: Ability to add/edit/delete products from the catalogue.
+
+3. **Features**
+   - Responsive design for desktop, tablet, and mobile.
+   - Search and filter functionality for the catalogue.
+   - Form submission handling with validation.
+   - Placeholder product images and data for now.
+   - Admin route protected with a simple password (no login system initially).
+   - Footer with quick links and contact details.
+
+4. **Design Guidance**
+   - Use soft neutral colors, elegant fonts, and consistent spacing.
+   - Layout similar to a premium corporate site — minimalistic, professional, and high contrast for readability.
+   - Product cards with hover animations.
+   - Include a “Request a Quote” or “Bulk Order Inquiry” CTA on relevant sections.
+
+5. **Deployment**
+   - The entire project should run smoothly on Replit.
+   - Include all environment setup instructions.
+   - Provide a `README.md` file explaining how to run and edit the site.
+
+6. **Optional Enhancements (if time permits)**
+   - Add category-based navigation (e.g., “Employee Gifts,” “Festive Gifts,” “Premium Hampers”).
+   - Add a testimonial or client logos section on the homepage.
+   - Add email integration for contact form (can mock it for now).
+
+Please:
+- Scaffold the project with all necessary files and folders.
+- Create well-commented, modular code.
+- Focus on a visually appealing layout and clean component structure.
